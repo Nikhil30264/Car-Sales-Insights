@@ -29,4 +29,4 @@ Difference between YTD Cars Sold and PTYD Cars Sold.
 ***YTD Total Sales by Color:*** Present the contribution of various car colors to the YTD total sales through a pie chart.<br>
 ***YTD Cars Sold by Dealer Region:*** Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.<br>
 ***Company-Wise Sales Trend in Grid Form:*** Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.<br>
-***Details Grid Showing All Car Sales Information:*** Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc***<br>
+***Details Grid Showing All Car Sales Information:*** Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc.
