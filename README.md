@@ -8,19 +8,19 @@ The objective of this project is to design and develop a dynamic and interactive
 ## Problem Statement 1: KPI’s Requirement
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 ### Sales Overview:
-***Year-to-Date (YTD) Total Sales
-Month-to-Date (MTD) Total Sales
-Year-over-Year (YOY) Growth in Total Sales
-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+***Year-to-Date (YTD) Total Sales <br>
+Month-to-Date (MTD) Total Sales  <br>
+Year-over-Year (YOY) Growth in Total Sales  <br>
+Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  <br>
 Average Price Analysis:
-YTD Average Price
-MTD Average Price
-YOY Growth in Average Price
-Difference between YTD Average Price and PTYD Average Price
+YTD Average Price  <br>
+MTD Average Price  <br>
+YOY Growth in Average Price  <br>
+Difference between YTD Average Price and PTYD Average Price  <br>
 Cars Sold Metrics:
-YTD Cars Sold
-MTD Cars Sold
-YOY Growth in Cars Sold
+YTD Cars Sold  <br>
+MTD Cars Sold  <br>
+YOY Growth in Cars Sold  <br>
 Difference between YTD Cars Sold and PTYD Cars Sold***
 
 ## Problem Statement 2: Charts Requirement
